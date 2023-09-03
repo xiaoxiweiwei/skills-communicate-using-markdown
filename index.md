@@ -6,3 +6,6 @@
 ###### this is the h6 header
 
 I add 6 sizes headers
+
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
